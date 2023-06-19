@@ -1,0 +1,11 @@
+.home--container{
+    padding:0;
+    margin: 0;
+    background-image: url('https://images.pexels.com/photos/317333/pexels-photo-317333.jpeg?auto=compress&cs=tinysrgb&w=600');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.home--wrapper{
+    padding:20px;
+}

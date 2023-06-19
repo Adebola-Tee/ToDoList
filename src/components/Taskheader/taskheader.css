@@ -1,0 +1,23 @@
+.taskheader--container {
+    width: 100%;
+  }
+
+.taskheader--wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+.taskheader-img{
+    width:200px;
+    height:200px;
+    object-fit: contain;
+    border-radius: 100%;
+    
+}
+.color-change{
+    color: #db14ba;
+}
+.taskheader-h1{
+    margin-right: 40px;
+}
